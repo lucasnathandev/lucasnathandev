@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukhasdeveloper
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I’m currently learning and improving my knowledges in JavaScript, VueJS, HTML, CSS and NodeJS.
 - 💞️ I’m looking to collaborate on technology enterprises.
 - 📫 How to reach me lucas.develop.prog@gmail.com or linkedin: https://www.linkedin.com/in/lucas-nathan-h-silva-59aba71a5/
 
