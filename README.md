@@ -111,4 +111,7 @@
       alt="Lucas-whatsapp"
   /></a>
 </div>
-![Snake](https://github.com/lucasnathandev/lucasnathandev/blob/output/github-contribution-grid-snake.svg)
+<img
+  src="https://raw.githubusercontent.com/lucasnathandev/lucasnathandev/output/github-contribution-grid-snake.svg"
+  alt=""
+/>
