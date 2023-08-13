@@ -111,4 +111,3 @@
       alt="Lucas-whatsapp"
   /></a>
 </div>
-![snake animation](https://github.com/lucasnathandev/lucasnathandev/blob/output/github-contribution-grid-snake.svg)
